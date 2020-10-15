@@ -9,5 +9,4 @@ On @stoffera version there is no implementation of the keyboard, however, I have
 
 I will be soon enabling the audio, so it is fully playable.
 
-![Image of Yaktocat]
-(https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
